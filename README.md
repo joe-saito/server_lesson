@@ -1,4 +1,4 @@
-#$B$3$N%;%/%7%g%s$G3X$s$@%3%^%s%I(B
+#¤³¤Î¥»¥¯¥·¥ç¥ó¤Ç³Ø¤ó¤À¥³¥Þ¥ó¥É
 - ls(list)
 - pwd (Print Working Directory)
 - cd (Change Directory)
@@ -9,6 +9,4 @@
 - mv (MoVe)
 - rm (ReMove)
 - cat (CATnate)
-- >
-- >>
 - vi
